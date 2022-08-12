@@ -1,2 +1,2 @@
 # NodeMCU_BasicUDP
-A Base class for NodeMCU UDP projects
+A base class for NodeMCU UDP projects
