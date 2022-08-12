@@ -1,0 +1,21 @@
+{
+  "name": "NodeMCU_BasicUDP",
+  "version": "1.0.0",
+  "description": "A Base class for NodeMCU UDP projects",
+  "keywords": "NodeMCU, Network, UDP",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/tgrundtvig/NodeMCU_BasicUDP"
+  },
+  "authors":
+  [
+    {
+      "name": "Tobias Grundtvig",
+      "email": "tgrundtvig@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": "espressif8266"
+}
